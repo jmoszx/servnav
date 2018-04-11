@@ -8,4 +8,4 @@
 ## Navegador
 - python nav.py url
 
-* Exemplo: python navegador.py http://dcomp.ufsj.edu.br/~fls/redes/tp1.txt
+* Exemplo: python3 nav.py http://dcomp.ufsj.edu.br/~fls/redes/tp1.txt
